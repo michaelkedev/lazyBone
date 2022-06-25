@@ -96,7 +96,7 @@ def upload():
     morningActivity = "宿舍"
     noonActivity = "宿舍"
     nightActivity = "宿舍"
-    className = "四訊三丙"
+    className = "XXXX"
     departmentName = "40"
     #填入身體狀況資料
     bodyState = {
